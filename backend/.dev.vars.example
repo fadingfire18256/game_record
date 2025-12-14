@@ -1,0 +1,3 @@
+# Neon Database URL
+# 從 Neon 控制台獲取連接字串
+DATABASE_URL=postgresql://user:password@host/database?sslmode=require

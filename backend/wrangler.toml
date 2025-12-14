@@ -1,0 +1,11 @@
+name = "game-recorder-backend"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+# 環境變數（在 Cloudflare Dashboard 設置）
+# [vars]
+# DATABASE_URL = "your-neon-database-url"
+
+# 開發環境設置
+[env.development]
+name = "game-recorder-backend-dev"
